@@ -1,0 +1,40 @@
+h1 {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    display: block;
+    text-align: center;
+    padding: 0.1em;
+    /* Note the background below needs the double dot (..) to correctly parse the directory location */
+    background: url(../images/pattern.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: darkblue;
+}
+
+h2 {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: darkblue;
+}
+
+.bg_color_mediumspringgreen{
+    background-color: mediumspringgreen;
+}
+
+.bg_color_lightcoral{
+    background-color: lightcoral;
+}
+
+.bg_color_skyblue{
+    background-color: skyblue;
+}
+
+.costing_emphasis{
+    font-family: Helvetica, Arial, sans-serif;
+    font-weight: bold;
+    color: blue;
+}
